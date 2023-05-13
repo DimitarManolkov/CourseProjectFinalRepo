@@ -1,0 +1,34 @@
+
+/*.OrderNow{
+    display: flex;
+    border: solid #ffecdf;
+    width: 50%;
+    text-align: center;
+}*/
+
+.Order{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 1500px;
+    margin: 0 auto;
+}
+.Order a {
+    text-decoration: none;
+    font-size: 90px;
+    color: #ffecdf;
+    text-align: center;
+    border: solid #ffecdf;
+    padding: 20px 300px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.Order a:hover{
+    background-color: #ffecdf;
+    color:#483c32;
+}
+
